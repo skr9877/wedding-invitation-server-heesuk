@@ -1,0 +1,5 @@
+*.db
+.env
+wedding-invitation-server
+pkg/
+.idea/
