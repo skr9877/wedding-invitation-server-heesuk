@@ -1,5 +1,7 @@
 *.db
 .env
 wedding-invitation-server
+wedding-server
+command.md
 pkg/
 .idea/
